@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    position: relative;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h3{
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    font-size: 36px;
+    letter-spacing: 4px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Source Sans Pro";
+}
+p{
+    position: absolute;
+    top: 18%;
+    left: 40%;
+    width: 1173px;
+    height: 39px;
+    font-size: 20px;
+    line-height: 29px;
+    color: #f4f5f9;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+#hr1 {
+    margin-top: 20px;
+    position: absolute;
+    top: 25%;
+    left: 43%;
+    size: 0.5 noshade;
+    width: 8%;
+    color: #ffffff;
+}
+#hr2 {
+    margin-top: 20px;
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    size: 0.5 noshade;
+    width: 8%;
+    color: #ffffff;
+}
+#r1 {
+    margin-top: 20px;
+    position: absolute;
+    top: 25%;
+    left: 53%;
+    width: 9px;
+    height: 9px;
+    border-radius: 4px;
+    background-color: #e74c3c;
+}
+svg{
+    width: 100%;
+    position: absolute;
+    bottom: 17%;
+    opacity: 0.3;
+}
+.image{
+    width: 100%;
+}
+.line{
+    width: 100%;
+}
+.img1{
+    position: absolute;
+    bottom: 42%;
+    left: 20%;
+    width: 57px;
+    height: 56px;
+    border: 3px solid #e74c3c;
+    border-radius: 28px;
+    border-color: #e74c3c;
+    background-image: url(Ellipse\ 1.png);
+}
+.img2{
+    position: absolute;
+    bottom: 45%;
+    left: 38%;
+    width: 88px;
+    height: 86px;
+    border-radius: 43px;
+    border: 3px solid #e74c3c;
+    background-color: #e74c3c;
+    background-image: url(Ellipse\ 2.png);
+    opacity: 0.5;
+    width: 88px;
+    height: 86px;
+    border-radius: 43px;
+    background-color: #e74c3c;
+}
+.img3{
+    position: absolute;
+    bottom: 48%;
+    left: 55%;
+    width: 57px;
+    height: 56px;
+    border: 3px solid #e74c3c;
+    border-radius: 28px;
+    background-color: #e74c3c;
+    background-image: url(Ellipse\ 3.png);
+}
+.img4{
+    position: absolute;
+    bottom: 43%;
+    left: 70%;
+    width: 57px;
+    height: 56px;
+    border: 3px solid #e74c3c;
+    border-radius: 28px;
+    background-color: #e74c3c;  
+    background-image: url(Ellipse\ 4.png); 
+}
+.img5{
+    position: absolute;
+    bottom: 49%;
+    left: 88%;
+    width: 57px;
+    height: 56px;
+    border: 3px solid #e74c3c;
+    border-radius: 30px;
+    background-color: #e74c3c;
+    background-image: url(Ellipse\ 5.png);
+}
+.text h1{
+    position: absolute;
+    bottom: 32%;
+    left: 34%;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #e74c3c;
+    font-weight: 600;
+    font-family: "Open Sans";
+}
+.text h4{
+    position: absolute;
+    bottom: 25%;
+    left: 38%;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Source Sans Pro";
+}
